@@ -6,11 +6,14 @@
  - unset LD_PRELOAD
  -./ofuscode
 
-#EJECUTACION
+# EJECUTACION
+
  - ofuscode file
 
-#CLAY HACKER
+# CLAYS HACKER 
 
-#CANAL DE YOUTUBE 
+# NINGUN SISTEMA ES SEGURO 
+
+# CANAL DE YOUTUBE 
 
  https://www.youtube.com/channel/UCDmwCTzunUqrQx6BxCAPkQQ
